@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Natural Language Processing, Reinforcement Learning**
 
-- 📫 How to reach me **h.khair95@outlook.com**
+- 📫 How to reach me **h.khair95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
